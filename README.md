@@ -20,7 +20,7 @@ This project analyzes a dataset of over 12 million rows of Mercedes-Benz sales d
 3. **Market Preferences:** Black and White remain the dominant color choices, while regional sales show distinct preferences for Turbo models.
 
 ---
-To run this analysis, simply execute "python scripts/analysis.py" or "python3 scripts/analysis.py" The results will be saved in the outputs/ folder.
+To run this analysis, simply execute "python scripts/mercedes_benz_sales_2020_2025-en.py" or "python3 scripts/mercedes_benz_sales_2020_2025-en.py" The results will be saved in the outputs/ folder.
 ___
 
 *Created by Seyran — Combining Economics with Data Science.*
